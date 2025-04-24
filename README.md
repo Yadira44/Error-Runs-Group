@@ -10,6 +10,6 @@ The inning groups consist of:
   - 4-6 innings
   - 7+ innings
 
-## Part 2 
+## Part 1.5
 Explain the total errors gap.
 While gathering information for the inning groups, errors that occured more than once in one inning got counted as an individual error instead of multiple.
